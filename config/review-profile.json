@@ -1,0 +1,29 @@
+{
+  "repo": "spritekit-lua",
+  "language": "Lua",
+  "category": "Game engines",
+  "case_count": 5,
+  "score_formula": "signal * 2 + slack + confidence - drag * 3",
+  "lane_thresholds": {
+    "ship": 140,
+    "watch": 105
+  },
+  "read_order": [
+    "README.md",
+    "fixtures/domain_review.csv",
+    "metadata/domain-review.json",
+    "examples/spritekit-lua-walkthrough.md"
+  ],
+  "first_question": "Does turn pressure still dominate the review result?",
+  "second_question": "Is collision risk being penalized hard enough before visibility is trusted?",
+  "highest_case": {
+    "name": "recovery",
+    "focus": "visibility",
+    "score": 226
+  },
+  "lowest_case": {
+    "name": "baseline",
+    "focus": "turn pressure",
+    "score": 113
+  }
+}
