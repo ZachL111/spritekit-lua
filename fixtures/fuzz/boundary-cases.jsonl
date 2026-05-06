@@ -1,0 +1,22 @@
+{"confidence": -58, "drag": 9, "focus": "map entropy", "id": "b001", "lane": "hold", "score": 41, "signal": 41, "slack": 26, "threshold": "watch"}
+{"confidence": -59, "drag": 10, "focus": "collision risk", "id": "b002", "lane": "hold", "score": 42, "signal": 42, "slack": 27, "threshold": "watch"}
+{"confidence": -60, "drag": 11, "focus": "visibility", "id": "b003", "lane": "hold", "score": 43, "signal": 43, "slack": 28, "threshold": "watch"}
+{"confidence": -61, "drag": 12, "focus": "turn pressure", "id": "b004", "lane": "hold", "score": 44, "signal": 44, "slack": 29, "threshold": "watch"}
+{"confidence": -62, "drag": 13, "focus": "map entropy", "id": "b005", "lane": "hold", "score": 45, "signal": 45, "slack": 30, "threshold": "watch"}
+{"confidence": -63, "drag": 14, "focus": "collision risk", "id": "b006", "lane": "hold", "score": 46, "signal": 46, "slack": 31, "threshold": "watch"}
+{"confidence": -64, "drag": 15, "focus": "visibility", "id": "b007", "lane": "hold", "score": 47, "signal": 47, "slack": 32, "threshold": "watch"}
+{"confidence": -65, "drag": 16, "focus": "turn pressure", "id": "b008", "lane": "hold", "score": 48, "signal": 48, "slack": 33, "threshold": "watch"}
+{"confidence": -66, "drag": 17, "focus": "map entropy", "id": "b009", "lane": "hold", "score": 49, "signal": 49, "slack": 34, "threshold": "watch"}
+{"confidence": -67, "drag": 18, "focus": "collision risk", "id": "b010", "lane": "hold", "score": 50, "signal": 50, "slack": 35, "threshold": "watch"}
+{"confidence": -68, "drag": 19, "focus": "visibility", "id": "b011", "lane": "hold", "score": 51, "signal": 51, "slack": 36, "threshold": "watch"}
+{"confidence": -38, "drag": 20, "focus": "turn pressure", "id": "b012", "lane": "watch", "score": 114, "signal": 52, "slack": 37, "threshold": "ship"}
+{"confidence": -39, "drag": 21, "focus": "map entropy", "id": "b013", "lane": "watch", "score": 115, "signal": 53, "slack": 38, "threshold": "ship"}
+{"confidence": -40, "drag": 22, "focus": "collision risk", "id": "b014", "lane": "watch", "score": 116, "signal": 54, "slack": 39, "threshold": "ship"}
+{"confidence": -41, "drag": 23, "focus": "visibility", "id": "b015", "lane": "watch", "score": 117, "signal": 55, "slack": 40, "threshold": "ship"}
+{"confidence": -42, "drag": 24, "focus": "turn pressure", "id": "b016", "lane": "watch", "score": 118, "signal": 56, "slack": 41, "threshold": "ship"}
+{"confidence": -43, "drag": 25, "focus": "map entropy", "id": "b017", "lane": "watch", "score": 119, "signal": 57, "slack": 42, "threshold": "ship"}
+{"confidence": -44, "drag": 26, "focus": "collision risk", "id": "b018", "lane": "watch", "score": 120, "signal": 58, "slack": 43, "threshold": "ship"}
+{"confidence": -45, "drag": 27, "focus": "visibility", "id": "b019", "lane": "watch", "score": 121, "signal": 59, "slack": 44, "threshold": "ship"}
+{"confidence": -86, "drag": 8, "focus": "turn pressure", "id": "b020", "lane": "hold", "score": 82, "signal": 60, "slack": 45, "threshold": "ship"}
+{"confidence": -87, "drag": 9, "focus": "map entropy", "id": "b021", "lane": "hold", "score": 83, "signal": 61, "slack": 46, "threshold": "ship"}
+{"confidence": -88, "drag": 10, "focus": "collision risk", "id": "b022", "lane": "hold", "score": 84, "signal": 62, "slack": 47, "threshold": "ship"}
